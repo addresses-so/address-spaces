@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 ---
 
 Some addresses here...
