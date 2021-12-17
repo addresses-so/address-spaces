@@ -1,6 +1,6 @@
 ---
 title:
-logo_url:
+description:
 ---
 
 Some addresses here...
