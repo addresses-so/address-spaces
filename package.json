@@ -1,0 +1,7 @@
+{
+  "name": "address-spaces",
+  "repository": "addresses/address-spaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
