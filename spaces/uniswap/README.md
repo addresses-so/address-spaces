@@ -1,6 +1,6 @@
 ---
 title: Uniswap
-logo_url: https://github.com/snapshot-labs/snapshot-spaces/blob/ab4db0bd2b336cf2d46ca6ef8aca61d88458dc21/spaces/uniswap/logo.png?raw=true
+description: Swap, earn, and build on the leading decentralized crypto trading protocol.
 ---
 
 # Deployment addresses
