@@ -1,3 +1,8 @@
+---
+title: Uniswap
+logo_url: https://github.com/snapshot-labs/snapshot-spaces/blob/ab4db0bd2b336cf2d46ca6ef8aca61d88458dc21/spaces/uniswap/logo.png?raw=true
+---
+
 # Deployment addresses
 
 The latest version of `@uniswap/v3-core`, `@uniswap/v3-periphery` are deployed to Ethereum mainnet and all testnets
